@@ -3,7 +3,7 @@ Requires Python version 3.9, 3.10, 3.11, or 3.12.
 
 Clone the repository:
 ```bash
-git clone https://github.com/yusufacikel/demo_pipe_sofe.git
+git clone [https://github.com/yusufacikel/demo_pipe.git](https://github.com/yusufacikel/demo-pipe.git)
 ```
 Change directory:
 ```bash
